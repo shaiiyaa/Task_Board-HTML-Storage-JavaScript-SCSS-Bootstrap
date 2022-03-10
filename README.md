@@ -1,0 +1,1 @@
+This was one of my first projects in my Web Development study. Very basic HTML JavaScript page that includes saving task with date and time to LocalStorage simpley designed with CSS and Bootstrap.
